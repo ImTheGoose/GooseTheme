@@ -9,10 +9,6 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.imthegoose.goosetheme.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <themeProvider id="com.github.imthegoose.goosetheme" path="/theme/goosetheme.theme.json"></themeProvider>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.imthegoose.goosetheme.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
 </idea-plugin>
