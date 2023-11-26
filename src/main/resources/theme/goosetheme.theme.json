@@ -96,7 +96,7 @@
     "RadioButtonMenuItem.acceleratorSelectionForeground": "#43464C",
     "RadioButtonMenuItem.disabledForeground": "#436970",
     "Slider.tickColor": "#4c7880",
-    "SplitPane.highlight": "#50535B ",
+    "SplitPane.highlight": "#50535B",
     "SplitPaneDivider.draggingColor": "#3E4047",
     "TabbedPane.disabledForeground": "#35545A",
     "TabbedPane.disabledUnderlineColor": "#395A60",
