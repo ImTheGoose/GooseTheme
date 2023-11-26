@@ -426,12 +426,6 @@
       }
     }
   },
-  "background": {
-    "anchor": "center",
-    "fill": "scale",
-    "transparency": 15,
-    "image": "/theme/gradience.png"
-  },
   "icons": {
     "ColorPalette": {
       "Actions.Blue": "#3B71AF",
